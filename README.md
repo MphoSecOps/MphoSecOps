@@ -2,7 +2,8 @@
 
 🔐 Aspiring SOC Analyst transitioning into Application Security (AppSec)  
 💻 Software Developer (React, C#, MERN Stack)  
-🛡️ Passionate about Threat Detection, SIEM, and Secure Coding  
+🛡️ Passionate about Threat Detection, SIEM, and Secure Coding
+🧏‍♂️ Deaf professional, bringing a unique perspective and focus to problem-solving 
 
 ---
 
