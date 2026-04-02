@@ -1,16 +1,62 @@
-## Hi there 👋
+# Hi, I'm Mpho 👋
 
-<!--
-**MphoSecOps/MphoSecOps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 Aspiring SOC Analyst transitioning into Application Security (AppSec)  
+💻 Software Developer (React, C#, MERN Stack)  
+🛡️ Passionate about Threat Detection, SIEM, and Secure Coding  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Focus
+- Building SOC Analyst projects
+- Log analysis & threat detection
+- Working with SIEM tools (Wazuh, Splunk)
+- Python for cybersecurity
+- Improving secure coding skills
+
+---
+
+## 🧠 Skills
+
+💻 Programming:
+- Python
+- JavaScript (React)
+- C#
+- Node.js
+- SQL
+
+🛡️ Cybersecurity:
+- Log Analysis
+- SIEM (Wazuh, Splunk)
+- Network Scanning (Nmap)
+- Threat Detection
+- Basic Security Monitoring
+
+---
+
+## 📂 Projects
+
+🔍 Log Analyzer (Python)  
+- Detects suspicious activity in logs  
+- Identifies failed logins & anomalies  
+
+🛡️ SOC Home Lab  
+- Wazuh + Splunk setup  
+- Real-time monitoring & alerting  
+
+---
+
+## 🎯 Goal
+
+To become a **SOC Analyst → Application Security Engineer**  
+Focused on protecting systems and building secure applications.
+
+---
+
+## 📫 Connect with me
+
+- LinkedIn: https://www.linkedin.com/in/mpho-magasoane-2154b430/
+- Email: magasoanemr@gmail.com
+
+---
+
+⚡ “Security is not a product, it's a mindset.”
